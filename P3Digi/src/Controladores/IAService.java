@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 
 public class IAService {
 
-    private static final String API_KEY = "falsa";//github no me deja su birlo con la clave real, así que la he cambiado por esta de prueba que no funciona
+    private static final String API_KEY = "AQUÍ_TU_API_KEY";
     private static final String API_URL = "https://api.groq.com/openai/v1/chat/completions";
     private static final String MODELO = "llama-3.3-70b-versatile";
 
